@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Tanner Wong",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://tannerww.github.io/images/portfolio.jpg",
+    "email": "tannerww@hawaii.edu",
+    "phone": "",
+    "website": "https://tannerww.github.io",
+    "summary": "I am studying for a B.B.A in Finance and Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2023.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,26 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "tannerww",
+        "url": "http://github.com/tannerww"
       },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+      
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Hiking",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+       
       ]
     },
     {
-      "name": "data mining",
+      "name": "Cooking",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Video Games",
       "keywords": [
       ]
     }
