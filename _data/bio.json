@@ -74,7 +74,14 @@
       "startDate": "2019-09-01",
       "endDate": "Present",
       "gpa": "3.04",
-      "courses":"Intermediate Financial Acc I",
+      "courses": [ "Intermediate Financial Acc I",
+	"Stat Analysis for Bus Decision",
+      "Info Sys for Global Bus Enviro",
+      "Business Finance",
+      "Programming Application System",
+      
+		 ]
+	    
      
       
       
@@ -100,7 +107,7 @@
     {
       "company": "Bank of Hawaii",
       "position": "Student Assistant, Collections",
-      "website": "http://www.hawaii.edu/its/",
+      "website": "",
       "startDate": "2020-09",
       "endDate": "2021-06",
       "summary": "",
