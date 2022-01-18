@@ -1,163 +1,163 @@
 {
-  "basics": {
-    "name": "Tanner Wong",
-    "label": "Student",
-    "picture": "https://tannerww.github.io/images/portfolio.jpg",
-    "email": "tannerww@hawaii.edu",
-    "phone": "",
-    "website": "https://tannerww.github.io",
-    "summary": "I am studying for a B.B.A in Finance and Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2023.",
-    "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "tannerww",
-        "url": "http://github.com/tannerww"
+    "basics": {
+      "name": "Tanner Wong",
+      "label": "Student",
+      "picture": "https://tannerww.github.io/images/portfolio.jpg",
+      "email": "tannerww@hawaii.edu",
+      "phone": "",
+      "website": "https://tannerww.github.io",
+      "summary": "I am studying for a B.B.A in Finance and Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Fall, 2023.",
+      "location": {
+        "address": "",
+        "postalCode": "96822",
+        "city": "Honolulu",
+        "countryCode": "USA",
+        "region": "Hawaii"
       },
-      
+      "profiles": [
+        {
+          "network": "github",
+          "username": "tannerww",
+          "url": "http://github.com/tannerww"
+        }
+        
+      ]
+    },
+    "interests": [
+      {
+        "name": "Hiking",
+        "keywords": [
+         
+        ]
+      },
+      {
+        "name": "Cooking",
+        "keywords": [
+        ]
+      },
+      {
+        "name": "Video Games",
+        "keywords": [
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Languages and Frameworks",
+        "level": "",
+        "keywords": [
+          "HTML",
+          "CSS"
+        ]
+      },
+      {
+        "name": "Toolsets/OS",
+        "level": "",
+        "keywords": [
+          "MacOS",
+          "Git/Github"
+         
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Hawaii, Honolulu, HI",
+        "area": "Finance and Management Information Systems (expected Fall, 2023)",
+        "studyType": "B.B.A",
+        "startDate": "2019-09-01",
+        "endDate": "Present",
+        "gpa": "3.04",
+        "courses": [ 
+        "Intermediate Financial Acc I",
+        "Stat Analysis for Bus Decision",
+        "Info Sys for Global Bus Enviro",
+        "Business Finance",
+        "Programming Application System"
+        
+           ]
+          
+       
+        
+        
+      }
+    ],
+    "work": [
+      {
+        "company": "Noods Ramen Bar",
+        "position": "Cook",
+        "website": "",
+        "startDate": "2021-12",
+        "endDate": "Present",
+        "summary": "",
+        "highlights": [
+          "Garnish ramen bowls",
+          "Cook ramen broth and noodles",
+          "Cook and garnish side dishes", 
+          "Serve orders in on time and with good presentation", 
+          "Other kitchen duties"
+         
+        ]
+      },
+      {
+        "company": "Bank of Hawaii",
+        "position": "Student Assistant, Collections",
+        "website": "",
+        "startDate": "2020-09",
+        "endDate": "2021-06",
+        "summary": "",
+        "highlights": [
+          "Made outbound and received inbound collection calls",
+          "Offered and informed customers of the Bank’s financial hardship assistance programs",
+          "Assisted with preparing loan modifications, such as deferrals and change in terms on loans"
+        ]
+      }
+    ],
+    "": [
+      {
+        "organization": "",
+        "website": "",
+        "position": "",
+        "startDate": "",
+        "endDate": "",
+        "summary": "",
+        "highlights": [
+          ""
+         
+        ]
+      },
+      {
+        "organization": "",
+        "website": "",
+        "position": "",
+        "startDate": "",
+        "endDate": "",
+        "summary": "",
+        "highlights": [
+          "",
+          "",
+          ""
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "100th Infantry Battalion Memorial Scholarship",
+        "date": "2019",
+        "awarder": "Hawaii Community Foundation",
+        "summary": "Being a direct descendant of 100th Infantry Battalion World War II Veteran and promoting the legacy of the 100th Infantry Battalion"
+      },
+      {
+        "title": "",
+        "date": "",
+        "awarder": "",
+        "summary": ""
+      }
+    ],
+    "references": [
+      {
+        "name": "Available upon request",
+        "reference": ""
+      }
     ]
-  },
-  "interests": [
-    {
-      "name": "Hiking",
-      "keywords": [
-       
-      ]
-    },
-    {
-      "name": "Cooking",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Video Games",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "HTML",
-        "CSS"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Git/Github",
-       
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Finance and Management Information Systems (expected Fall, 2023)",
-      "studyType": "B.B.A",
-      "startDate": "2019-09-01",
-      "endDate": "Present",
-      "gpa": "3.04",
-      "courses": [ 
-      "Intermediate Financial Acc I",
-      "Stat Analysis for Bus Decision",
-      "Info Sys for Global Bus Enviro",
-      "Business Finance",
-      "Programming Application System",
-      
-		 ]
-	    
-     
-      
-      
-    }
-  ],
-  "work": [
-    {
-      "company": "Noods Ramen Bar",
-      "position": "Cook",
-      "website": "",
-      "startDate": "2021-12",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Garnish ramen bowls",
-        "Cook ramen broth and noodles",
-        "Cook and garnish side dishes", 
-        "Serve orders in on time and with good presentation", 
-        "Other kitchen duties",
-       
-      ]
-    },
-    {
-      "company": "Bank of Hawaii",
-      "position": "Student Assistant, Collections",
-      "website": "",
-      "startDate": "2020-09",
-      "endDate": "2021-06",
-      "summary": "",
-      "highlights": [
-        "Made outbound and received inbound collection calls",
-        "Offered and informed customers of the Bank’s financial hardship assistance programs",
-        "Assisted with preparing loan modifications, such as deferrals and change in terms on loans",
-      ]
-    }
-  ],
-  "": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-       
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "100th Infantry Battalion Memorial Scholarship",
-      "date": "2019",
-      "awarder": "Hawaii Community Foundation",
-      "summary": "Being a direct descendant of 100th Infantry Battalion World War II Veteran and promoting the legacy of the 100th Infantry Battalion",
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
-}
+  }
